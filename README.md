@@ -1,4 +1,4 @@
-# Vasta-aineiden CDR looppien sekvenssit
+# Vasta-aineen CDR looppien sekvenssit
 
 Ensimmäinen käytännön pythonprojekti :)
 Koulutehtävää varten piti kerätä gevokizumab vasta-aineen (4G6K) CDR looppien aminohapposekvenssit tekstitiedostosta, joka näytti tältä:
